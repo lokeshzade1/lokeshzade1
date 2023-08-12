@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 <h3 align="center">A passionate Full stack and React native Developer from India</h3>
 <p align="center">
-  <img src="https://images.pexels.com/photos/2098427/pexels-photo-2098427.jpeg" alt="babel" width="600" height="400" />
+  <img src="https://cdn-learn.adafruit.com/guides/images/000/003/613/medium800/Fancy_Octocat_guide_image.png" alt="babel" width="600" height="400" />
 </p>
 - 💬 Ask me about **React and React Native**
 
