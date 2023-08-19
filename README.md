@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **zadelokesh1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 8855843505</h3>
 <p align="left">
 <a href="https://fb.com/lokesh zade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lokesh zade" height="30" width="40" /></a>
 <a href="https://instagram.com/zadelokesh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zadelokesh1" height="30" width="40" /></a>
